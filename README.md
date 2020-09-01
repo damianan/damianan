@@ -2,7 +2,7 @@
 
 ## Hey guys, I'm Damiana 👩🏽‍💻
 
-<img align="right" width="300" alt="octocat" src="https://github.com/damiana/damiana/raw/master/octocat.png" />
+<img align="right" width="300" alt="octocat" src="https://github.com/damiana/damiana/raw/master/octocat_coffee.png" />
 
 ## I'm a IT Specialist and a technology lover. Work with systems integrations and embedded software.
 
