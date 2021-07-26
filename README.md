@@ -4,9 +4,9 @@
 
 <img align="right" width="300" alt="octocat" src="https://github.com/damianan/damianan/raw/master/octocat_coffee.png" />
 
-## I'm a IT Specialist and a technology lover. Work with systems integrations and embedded software.
+## I'm a Staff Engineer and a technology lover. Work with systems integrations and embedded software.
 
-- 📝 I currently work with microservices in Java with Spring Boot, PHP and Python.
+- 📝 I currently work with microservices and lambdas in Java with Spring Boot, Node, PHP and Python.
 - ⚡ Curiosities: I'm agnostic about programming language but I'm in love with NodeJS and OpenSource technologies.
 
 
